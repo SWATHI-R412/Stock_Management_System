@@ -1,0 +1,27 @@
+.register{
+    width: 450px;
+    
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 60px;
+    backdrop-filter:blur(3px);
+    border-radius: 15px;
+    color:white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+      
+    }
+    h1.heee{
+      font-family: "brush script mt";
+      font-size:200%;
+      color:navy;
+    }
+    body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20200701/ourmid/pngtree-original-design-business-office-management-system-background-banner-image_346107.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 1200px;
+
+  }
+  

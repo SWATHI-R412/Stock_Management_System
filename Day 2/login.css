@@ -1,0 +1,25 @@
+.login{
+  width: 450px;
+  
+  overflow: hidden;
+  margin: 30 0 0 30px;
+  margin:auto;
+  padding: 60px;
+  backdrop-filter:blur(3px);
+  border-radius: 15px;
+  color:white;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  }
+  h1.heee{
+    font-family: "brush script mt";
+    font-size:200%;
+    color:navy;
+  }
+  body{
+
+    background-image: url(https://crl2020.imgix.net/img/retail-blog-header-13.png?auto=format,compress&q=60&w=1185);
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+  }
