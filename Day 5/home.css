@@ -1,0 +1,21 @@
+.home{
+    width: 350px;
+    height:600px;
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 30px;
+    background:white;
+    border-radius: 15px;
+    color:black;
+    
+  }
+  img{
+    padding-left: 40px;
+    padding-right: 1800px;
+  }
+  h1{
+    font-family: "brush script mt";
+    color: purple;
+  }
+ 
