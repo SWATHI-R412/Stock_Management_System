@@ -1,0 +1,32 @@
+.register{
+    width: 450px;
+    background-image: url(https://indiaiac.org/user/assets/images/registration-gif-bg.gif);
+    background-size: cover;
+    background-position-x: center;
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 60px;
+    backdrop-filter:blur(3px);
+    border-radius: 15px;
+    color:black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+      
+    }
+    h1.heee{
+      font-family: "brush script mt";
+      font-size:200%;
+      color:navy;
+    }
+    body{
+    background-image: url(https://uploads-ssl.webflow.com/611b82111c177de53409c4b5/61279f2e0c2bf63f579dfbb4_inventory-management.png);
+    background-repeat: no-repeat;
+    background-size: 1600px 1200px;
+
+  }
+  .MuiOutlinedInput-notchedOutline {
+    border-color:black !important;
+  }
+  
