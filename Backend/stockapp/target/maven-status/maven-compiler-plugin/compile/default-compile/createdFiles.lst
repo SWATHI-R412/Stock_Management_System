@@ -1,0 +1,9 @@
+com\example\demo\model\Orders.class
+com\example\demo\repository\BrandRepository.class
+com\example\demo\model\Brand.class
+com\example\demo\service\BrandService.class
+com\example\demo\model\Category.class
+com\example\demo\controller\BrandController.class
+com\example\demo\model\SignUp.class
+com\example\demo\model\Product.class
+com\example\demo\StockappApplication.class
